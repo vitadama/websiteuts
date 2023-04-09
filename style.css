@@ -1,0 +1,36 @@
+.button-special{
+    width: 200px; background-color: lightgray; height: 20px; text-decoration-color: white;
+}
+
+
+
+.diff{
+	margin-left: 0px;
+	font-size: 40px;
+	border: 0px;
+	color: black;
+}
+
+
+.borer{
+	text-align: start;
+	margin-bottom: 0px;
+	margin-top: 30px;
+	max-width: 450px;
+	height: auto;
+	border-top: 20px solid #f8f8f8;
+	border-bottom: 20px solid #f8f8f8;
+	border-left: 20px solid #f8f8f8;
+	border-right: 20px solid #f8f8f8;
+}
+
+.iki{
+	margin-bottom: 0px;
+	width: 55px;
+	height: auto;
+	border: 0px;
+
+}
+.mb{
+	max-width: 500px;
+}
